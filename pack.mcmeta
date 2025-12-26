@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "min_format": 72,
+    "max_format": [94, 1],
+    "supported_formats": { "min_inclusive": 72, "max_inclusive": 94 },
+    "description": "Adds options to increase speed, reduce size, and disable wandering for Happy Ghasts"
+  }
+}
