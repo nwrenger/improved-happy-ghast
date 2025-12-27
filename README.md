@@ -36,11 +36,11 @@ The above-mentioned improvements can be done by **right-clicking** the Happy Gha
 
 > **Right-clicking and applying**
 >
-> ![brush-ghast](showcase/sugar-ghast.png)
+> ![sugar-ghast](showcase/sugar-ghast.png)
 
 > **Faster, measured in-game speed at ~10b/s**
 >
-> ![noai](showcase/fast.png)
+> ![fast](showcase/fast.png)
 
 ## Reducing Size
 
@@ -48,11 +48,11 @@ The above-mentioned improvements can be done by **right-clicking** the Happy Gha
 
 > **Right-clicking and applying**
 >
-> ![brush-ghast](showcase/mushroom-ghast.png)
+> ![mushroom-ghast](showcase/mushroom-ghast.png)
 
 > **Compared to a normal one on the right**
 >
-> ![noai](showcase/smol.png)
+> ![smol](showcase/smol.png)
 
 ## Contributing & Issues
 
