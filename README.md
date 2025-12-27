@@ -16,7 +16,7 @@ After adding the data pack/mod to your world or server, you should see this conf
 
 ## Usage
 
-The above mentioned improvements can be done by **right-clicking** the Happy Ghast with **certain items** in the **mainhand** of the player. As a confirmation the player will see particles and a subtle sound cue. To **revert** these changes just repeat the mentioned steps again.
+The above-mentioned improvements can be done by **right-clicking** the Happy Ghast with **certain items** in the **mainhand** of the player. As a confirmation, the player will see particles and a subtle sound cue. To **revert** these changes, just repeat the mentioned steps again.
 
 ### Disable Wandering
 
