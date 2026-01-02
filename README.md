@@ -10,9 +10,9 @@ Allows players to create a **not-wandering**, **faster**, **smaller** Happy Ghas
 
 ## Installation
 
-After adding the data pack/mod to your world or server, you should see this confirmation message on login when the world loads:
+After adding the data pack/mod to your world or server, you should be able to open the about panel, which is fully controllable with the mouse:
 
-![loaded](showcase/loaded.png)
+![about_panel](showcase/about_panel.png)
 
 ## Usage
 
