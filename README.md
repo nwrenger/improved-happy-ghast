@@ -13,7 +13,7 @@ Allows players to create a **not-wandering**, **faster**, **smaller** Happy Ghas
 After adding the data pack/mod to your world or server, you should be able to open the about panel, which is fully controllable with the mouse:
 
 ```mcfunction
-/function disable_dimensions:about
+/function improved_happy_ghast:about
 ```
 
 ![about_panel](showcase/about_panel.png)
