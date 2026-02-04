@@ -1,0 +1,82 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:cave_air",
+    "minecraft:void_air",
+
+    "minecraft:light",
+
+    "minecraft:torch",
+    "minecraft:soul_torch",
+    "minecraft:redstone_torch",
+    "minecraft:wall_torch",
+    "minecraft:soul_wall_torch",
+    "minecraft:redstone_wall_torch",
+
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+
+    "minecraft:lever",
+    "minecraft:stone_button",
+    "minecraft:oak_button",
+    "minecraft:spruce_button",
+    "minecraft:birch_button",
+    "minecraft:jungle_button",
+    "minecraft:acacia_button",
+    "minecraft:dark_oak_button",
+    "minecraft:crimson_button",
+    "minecraft:warped_button",
+    "minecraft:mangrove_button",
+    "minecraft:bamboo_button",
+
+    "minecraft:tripwire_hook",
+    "minecraft:tripwire",
+    "minecraft:cobweb",
+
+    "minecraft:rail",
+    "minecraft:powered_rail",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail",
+
+    "minecraft:water",
+
+    "minecraft:tall_grass",
+    "minecraft:short_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:dead_bush",
+    "minecraft:vine",
+    "minecraft:weeping_vines",
+    "minecraft:twisting_vines",
+    "minecraft:glow_lichen",
+    "minecraft:sculk_vein",
+    "minecraft:cave_vines",
+    "minecraft:cave_vines_plant",
+
+    "minecraft:dandelion",
+    "minecraft:poppy",
+    "minecraft:blue_orchid",
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:red_tulip",
+    "minecraft:orange_tulip",
+    "minecraft:white_tulip",
+    "minecraft:pink_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:cornflower",
+    "minecraft:lily_of_the_valley",
+    "minecraft:wither_rose",
+    "minecraft:sunflower",
+    "minecraft:lilac",
+    "minecraft:rose_bush",
+    "minecraft:peony",
+
+    "minecraft:wildflowers",
+
+    "minecraft:sweet_berry_bush",
+
+    "minecraft:leaf_litter",
+    "minecraft:pink_petals"
+  ]
+}

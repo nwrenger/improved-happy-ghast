@@ -4,7 +4,7 @@
 [![modrinth](https://img.shields.io/badge/dynamic/json?url=https://api.modrinth.com/v2/project/improved-happy-ghast&label=downloads&query=$.downloads&color=#00AF5C)](https://modrinth.com/datapack/improved-happy-ghast)
 [![modrinth](https://img.shields.io/modrinth/game-versions/improved-happy-ghast.svg)](https://modrinth.com/datapack/improved-happy-ghast)
 
-Allows players to create a **not-wandering**, **faster**, **smaller** Happy Ghast in survival using items.
+Allows players to create a **not-wandering**, **faster**, **smaller** Happy Ghast and even **summon** it back in survival using items.
 
 > Makes the Happy Ghast usable again while staying balanced and survival-friendly.
 
@@ -36,11 +36,11 @@ The above-mentioned improvements can be done by **right-clicking** the Happy Gha
 
 ## Increasing Speed
 
-**Item**: Sugar
+**Item**: Cookie
 
 > **Right-clicking and applying**
 >
-> ![sugar-ghast](showcase/sugar-ghast.png)
+> ![cookie_ghast](showcase/cookie-ghast.png)
 
 > **Faster, measured in-game speed at ~10b/s**
 >
@@ -57,6 +57,18 @@ The above-mentioned improvements can be done by **right-clicking** the Happy Gha
 > **Compared to a normal one on the right**
 >
 > ![smol](showcase/smol.png)
+
+## Summoning Back
+
+**Item**: Goat Horn (bound)
+
+> **Right-clicking and applying**
+>
+> ![summon](showcase/horn-ghast.png)
+
+> **Summoned to your side, even across dimensions**
+>
+> ![summoned](showcase/summon.png)
 
 ## Contributing & Issues
 

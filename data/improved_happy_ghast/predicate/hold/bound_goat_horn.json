@@ -4,9 +4,14 @@
   "predicate": {
     "equipment": {
       "mainhand": {
-        "items": "minecraft:sugar",
+        "items": "minecraft:goat_horn",
         "count": {
           "min": 1
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "bound": true
+          }
         }
       }
     }

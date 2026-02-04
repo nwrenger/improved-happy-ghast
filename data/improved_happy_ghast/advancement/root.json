@@ -4,7 +4,7 @@
       "id": "minecraft:happy_ghast_spawn_egg"
     },
     "title": "Improved Happy Ghast",
-    "description": "Adds options to disable wandering, increase speed, reduce size for Happy Ghasts",
+    "description": "Adds options to disable wandering, increase speed, reduce size, and summon Happy Ghasts back to you",
     "background": "minecraft:block/pale_oak_log",
     "frame": "task",
     "show_toast": false,

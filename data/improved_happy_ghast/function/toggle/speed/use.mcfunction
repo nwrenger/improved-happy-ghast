@@ -1,4 +1,4 @@
-# Remove one sugar
+# Remove one cookie
 item modify entity @a[tag=improved_happy_ghast.player,gamemode=!creative,distance=..10,sort=nearest,limit=1] weapon.mainhand [{function:"minecraft:set_count",count:-1,add:true}]
 
 # Fx
