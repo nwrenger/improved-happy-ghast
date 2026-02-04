@@ -30,7 +30,7 @@ The above-mentioned improvements can be done by **right-clicking** the Happy Gha
 >
 > ![brush-ghast](showcase/brush-ghast.png)
 
-> **Not following snow balls and not-wandering**
+> **Not following snowballs and not-wandering**
 >
 > ![noai](showcase/noai.png)
 

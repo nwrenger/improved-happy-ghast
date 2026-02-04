@@ -9,6 +9,7 @@ execute unless data storage improved_happy_ghast:tmp result \
 
 # Check for enough space
 execute unless predicate improved_happy_ghast:enough_space \
+    run return \
     run function improved_happy_ghast:summon/too_small
 
 # Forceload tp chunk
