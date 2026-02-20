@@ -4,6 +4,6 @@
     "min_format": 72,
     "max_format": [94, 1],
     "supported_formats": { "min_inclusive": 72, "max_inclusive": 94 },
-    "description": "Adds options to disable wandering, increase speed, reduce size, and summon Happy Ghasts back to you"
+    "description": "Adds options to disable wandering, increase speed, reduce size, silence, and summon Happy Ghasts back to you"
   }
 }

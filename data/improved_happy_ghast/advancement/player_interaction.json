@@ -9,7 +9,8 @@
             "minecraft:brush",
             "minecraft:cookie",
             "minecraft:goat_horn",
-            "minecraft:brown_mushroom"
+            "minecraft:brown_mushroom",
+            "minecraft:honey_bottle"
           ],
           "count": {
             "min": 1

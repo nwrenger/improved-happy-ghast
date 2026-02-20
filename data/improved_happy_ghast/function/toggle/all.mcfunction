@@ -9,3 +9,6 @@ function improved_happy_ghast:toggle/bind/main
 
 # Toggle wandering
 function improved_happy_ghast:toggle/wandering/main
+
+# Toggle silence
+function improved_happy_ghast:toggle/silence/main

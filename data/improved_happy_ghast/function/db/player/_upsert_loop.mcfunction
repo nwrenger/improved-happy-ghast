@@ -1,6 +1,5 @@
-# Stop when sentinel reaches front or it was found
+# Stop when sentinel reaches front
 execute if data storage improved_happy_ghast:db players[0].__sentinel run return fail
-execute if data storage improved_happy_ghast:tmp {found:1b} run return fail
 
 # Pop front into tmp.cur
 data modify storage improved_happy_ghast:tmp cur set from storage improved_happy_ghast:db players[0]
