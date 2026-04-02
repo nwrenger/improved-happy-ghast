@@ -1,0 +1,596 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 1,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 1,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 1,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 1,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 1,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 1,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 1,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 1,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 1,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 1,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 1,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 1,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 1,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 1,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 1,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 1,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 2,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 2,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 2,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 2,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 2,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 2,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 2,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 2,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 2,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 2,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 2,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 2,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 2,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 2,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 2,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 2,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 3,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 3,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 3,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 3,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 3,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 3,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 3,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 3,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 3,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 3,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 3,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 3,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 3,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 3,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 3,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 3,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 4,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 4,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 4,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 4,
+      "offsetZ": -1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 4,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 4,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 4,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 4,
+      "offsetZ": 0,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 4,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 4,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 4,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 4,
+      "offsetZ": 1,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": -1,
+      "offsetY": 4,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 4,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 4,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 2,
+      "offsetY": 4,
+      "offsetZ": 2,
+      "predicate": {
+        "block": { "blocks": "#improved_happy_ghast:no_suffocation" }
+      }
+    }
+  ]
+}

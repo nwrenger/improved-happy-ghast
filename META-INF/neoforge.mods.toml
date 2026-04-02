@@ -1,0 +1,25 @@
+modLoader = "lowcodefml"
+loaderVersion = "[1,)"
+license = "GPL-3.0"
+
+[[mods]]
+modId = "improved_happy_ghast"
+version = "0.3.0"
+displayName = "Improved Happy Ghast"
+description = '''Adds options to disable wandering, increase speed, reduce size, silence, and summon Happy Ghasts back to you. Ported for 1.21.1 + VanillaBackport.'''
+authors = "nwrenger (ported by Preston)"
+logoFile = "pack.png"
+
+[[dependencies.improved_happy_ghast]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.improved_happy_ghast]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"

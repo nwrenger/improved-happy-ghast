@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": "minecraft:goat_horn",
+        "count": {
+          "min": 1
+        }
+      }
+    }
+  }
+}

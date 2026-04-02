@@ -1,0 +1,11 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "!minecraft:custom_name": {},
+      "minecraft:lore": [],
+      "minecraft:custom_data": {},
+      "minecraft:enchantment_glint_override": false
+    }
+  }
+]
