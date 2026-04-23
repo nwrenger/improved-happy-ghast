@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "improved_happy_ghast",
+  "version": "__VERSION__",
+  "name": "Improved Happy Ghast",
+  "description": "Adds options to disable wandering, increase speed, reduce size, silence, summon Happy Ghasts back to you, and get notified when they take damage.",
+  "authors": ["nwrenger"],
+  "contact": {
+    "homepage": "https://modrinth.com/datapack/improved-happy-ghast",
+    "sources": "https://github.com/nwrenger/improved-happy-ghast",
+    "issues": "https://github.com/nwrenger/improved-happy-ghast/issues"
+  },
+  "license": "GPL-3.0-or-later",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": { "fabric-resource-loader-v0": "*" }
+}

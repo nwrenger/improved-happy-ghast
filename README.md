@@ -4,7 +4,7 @@
 [![modrinth](https://img.shields.io/badge/dynamic/json?url=https://api.modrinth.com/v2/project/improved-happy-ghast&label=downloads&query=$.downloads&color=#00AF5C)](https://modrinth.com/datapack/improved-happy-ghast)
 [![modrinth](https://img.shields.io/modrinth/game-versions/improved-happy-ghast.svg)](https://modrinth.com/datapack/improved-happy-ghast)
 
-Allows players to create a **not-wandering**, **faster**, **smaller**, **silenced** Happy Ghast and even **summon** it back in survival using items.
+Allows players to create a **not-wandering**, **faster**, **smaller**, **silenced** Happy Ghast, get **damage alerts** and even **summon** it back in survival using items.
 
 > Makes the Happy Ghast usable again while staying balanced and survival-friendly.
 
@@ -81,6 +81,18 @@ The above-mentioned improvements can be done by **right-clicking** the Happy Gha
 > **Summoned to your side, even across dimensions**
 >
 > ![summoned](showcase/summon.png)
+
+## Damage Alerts
+
+**Item**: _None_ (always active)
+
+> **While riding**
+>
+> ![riding-hurt](showcase/riding-hurt.png)
+
+> **While away as tamed owner**
+>
+> ![tamed-hurt](showcase/tamed-hurt.png)
 
 ## Contributing & Issues
 

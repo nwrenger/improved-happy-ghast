@@ -1,0 +1,9 @@
+
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'GPL-3.0-or-later'
+showAsResourcePack = false
+mods = [
+    { modId = 'improved_happy_ghast', version = '__VERSION__', displayName = 'Improved Happy Ghast', description = 'Adds options to disable wandering, increase speed, reduce size, silence, summon Happy Ghasts back to you, and get notified when they take damage.', logoFile = 'pack.png', updateJSONURL = 'https://api.modrinth.com/updates/9pzvYKAk/forge_updates.json', authors = 'nwrenger', displayURL = 'https://modrinth.com/datapack/improved-happy-ghast' },
+]
+issueTrackerURL = 'https://github.com/nwrenger/improved-happy-ghast/issues'
