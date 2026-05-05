@@ -20,7 +20,11 @@ After adding the data pack/mod to your world or server, you should be able to op
 
 ## Usage
 
-The above-mentioned improvements can be done by **right-clicking** the Happy Ghast with **certain items** in the **mainhand** of the player. As a confirmation, the player will see particles and a subtle sound cue. To **revert** these changes, just repeat the mentioned steps again.
+The above-mentioned improvements can be done by **right-clicking** the Happy Ghast with **certain items** in the **mainhand** of the player. As a confirmation, the player will see particles and hear a subtle sound cue. To **revert** these changes, just repeat the mentioned steps again.
+
+## Behavior Adjustments
+
+Happy Ghasts also keep their riders underwater instead of forcing a dismount.
 
 ## Disable Wandering
 
