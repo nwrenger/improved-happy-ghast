@@ -50,8 +50,8 @@ jobs:
           zip -r "${{ steps.vars.outputs.ZIP_NAME }}" \
             pack.mcmeta \
             pack.png \
-            data
-
+            data \
+            LICENSE
       - name: Inject release version into mod metadata
         shell: bash
         run: |
@@ -79,7 +79,7 @@ jobs:
           cp -r META-INF .mod-build/META-INF
           cp fabric.mod.json .mod-build/fabric.mod.json
           cp quilt.mod.json .mod-build/quilt.mod.json
-
+          cp LICENSE .mod-build/LICENSE
           (
             cd .mod-build
             zip -r "../${{ steps.vars.outputs.JAR_NAME }}" .
