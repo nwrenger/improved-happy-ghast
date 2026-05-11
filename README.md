@@ -110,4 +110,4 @@ Please open issues or PRs on [GitHub](https://github.com/nwrenger/improved-happy
 
 ## License
 
-This project is licensed under the **GPLv3 License**. See [LICENSE](https://github.com/nwrenger/improved-happy-ghast/blob/main/LICENSE) for details.
+This project is licensed under the **LGPLv3 License**. See [LICENSE](https://github.com/nwrenger/improved-happy-ghast/blob/main/LICENSE) for details.
