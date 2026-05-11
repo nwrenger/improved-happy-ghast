@@ -51,7 +51,9 @@ jobs:
             pack.mcmeta \
             pack.png \
             data \
-            LICENSE
+            LICENSE \
+            LICENSE.GPL
+
       - name: Inject release version into mod metadata
         shell: bash
         run: |
@@ -80,6 +82,7 @@ jobs:
           cp fabric.mod.json .mod-build/fabric.mod.json
           cp quilt.mod.json .mod-build/quilt.mod.json
           cp LICENSE .mod-build/LICENSE
+          cp LICENSE.GPL .mod-build/LICENSE.GPL
           (
             cd .mod-build
             zip -r "../${{ steps.vars.outputs.JAR_NAME }}" .
