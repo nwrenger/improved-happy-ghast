@@ -76,13 +76,13 @@ Happy Ghasts also keep their riders underwater instead of forcing a dismount.
 
 ## Summoning Back
 
-**Item**: Goat Horn (bound)
+**Item**: Goat Horn
 
 > **Right-clicking and applying**
 >
 > ![horn-ghast](showcase/horn-ghast.png)
 
-> **Summoned to your side, even across dimensions**
+> **Summoned to your side, even across dimensions, via a Bound Horn**
 >
 > ![summoned](showcase/summon.png)
 
