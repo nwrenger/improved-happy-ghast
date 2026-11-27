@@ -4,8 +4,7 @@
 $execute if data storage improved_happy_ghast:config {features:{$(entry): {enabled: true}}} \
     run tellraw @s [ \
         {text:"▸ ", color:"dark_gray"}, \
-        {text:"$(label)",color:"$(color)"}, \
-        {color:"gray", text:":"}, \
+        {text:"$(label):",color:"$(color)"}, \
         " ", \
         { \
             color:"green", \
@@ -41,8 +40,7 @@ $execute if data storage improved_happy_ghast:config {features:{$(entry): {enabl
 $execute if data storage improved_happy_ghast:config {features:{$(entry): {enabled: false}}} \
     run tellraw @s [ \
         {text:"▸ ", color:"dark_gray"}, \
-        {text:"$(label)",color:"$(color)"}, \
-        {color:"gray", text:":"}, \
+        {text:"$(label):",color:"$(color)"}, \
         " ", \
         { \
             color:"red", \
