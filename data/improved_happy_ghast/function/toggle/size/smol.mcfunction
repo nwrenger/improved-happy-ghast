@@ -5,7 +5,7 @@ tag @s add improved_happy_ghast.smol
 tag @s add improved_happy_ghast.toggled.size
 
 # Update happy ghast's attribute
-attribute @s minecraft:scale base set 0.5
+$attribute @s minecraft:scale base set $(scale)
 
 # Show use
 function improved_happy_ghast:toggle/size/use

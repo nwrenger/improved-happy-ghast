@@ -18,6 +18,22 @@ After adding the data pack/mod to your world or server, you should be able to op
 
 ![about_panel](showcase/about_panel.png)
 
+## Configuration
+
+Open the configuration panel by the following command:
+
+```mcfunction
+/function disable_dimensions:config
+```
+
+![config_panel](showcase/config_panel.png)
+
+From here you can enable/disable various features and adjust their settings. The following things to keep in mind:
+
+- Setting Max Distance to `-1` will disable the max distance limit
+- For already modified ghasts, enabling/disabling features and modifying their settings doesn't take effect
+- For the Summoning Back feature, the enabling/disabling will always directly take effect
+
 ## Usage
 
 The above-mentioned improvements can be done by **right-clicking** the Happy Ghast with **certain items** in the **mainhand** of the player. As a confirmation, the player will see particles and hear a subtle sound cue. To **revert** these changes, just repeat the mentioned steps again.

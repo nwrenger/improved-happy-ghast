@@ -6,3 +6,4 @@ function improved_happy_ghast:summon/update with storage improved_happy_ghast:tm
 
 # Clean tmp
 data remove storage improved_happy_ghast:tmp result
+data remove storage improved_happy_ghast:tmp summon_pending

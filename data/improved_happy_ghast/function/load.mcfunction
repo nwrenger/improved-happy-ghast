@@ -6,3 +6,6 @@ scoreboard objectives add horn_used minecraft.used:minecraft.goat_horn
 scoreboard objectives add horn_used_prev dummy
 scoreboard objectives add hp dummy
 scoreboard objectives add hp_prev dummy
+
+# Setup config
+execute unless data storage improved_happy_ghast:config {features:{}} run function improved_happy_ghast:config/defaults
