@@ -27,5 +27,15 @@ tellraw @s [ \
         color:"aqua", \
         click_event:{action:"open_url",url:"https://github.com/nwrenger/improved-happy-ghast/issues"} \
     }, \
+    "\n", \
+    {text: "▸ ", color: "dark_gray"}, \
+    {text: "To configure this pack run",color:"gray"}, \
+    " ", \
+    { \
+        text: "function improved_happy_ghast:config", \
+        italic: true, \
+        color: "aqua", \
+        click_event: {action: "run_command", command: "function improved_happy_ghast:config"} \
+    }, \
     "\n" \
 ]
